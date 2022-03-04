@@ -1,9 +1,7 @@
-body {background: #000;}
-main {display:grid;
-height:50vh;
-justify-content:center;
-align-content: center;}
-h1 {font-family: 'Montserrat', sans-serif; color:#fff600; font-size: 5rem;}
-.banner {height:25vh;}
-.top-banner{height:100px; background-image:url(/Assets/images/contruction-banner.png); background-repeat: repeat;}
-.bottom-banner{height:100px; background-image:url(/Assets/images/contruction-banner.png); background-repeat: repeat;}
+body {
+    background: #f4f4f4;
+    display:grid;
+    justify-content:center;
+    align-content:center; }
+
+
